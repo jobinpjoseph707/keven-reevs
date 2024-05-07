@@ -36,7 +36,7 @@ p{
   padding-right:40px;
 }
 #img-div{
-  background: white;
+  background: rgb(255, 152, 152);
     padding: 10px;
     margin: 70px;
   border-radius:2em;
@@ -61,7 +61,7 @@ p{
     background:white;
   }
  .app {
-    background:white;
+    background:rgb(152, 139, 139);
     font-size:30px;
     letter-spacing: 3px;
    line-height: 1.5;
